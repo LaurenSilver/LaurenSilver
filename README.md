@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaurenSilver
 - 👀 I’m interested in learning new coding languages 
 - 🌱 I’m currently learning python and power BI
-- 📫 How to reach me laurennsilver@gmail.com
+- 📫 How to reach me lsilver.shilo@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can open up a fridge door with my shoulder blade!
 
