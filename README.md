@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python and power BI
 - 📫 How to reach me lsilver.shilo@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I can open up a fridge door with my shoulder blade!
+- ⚡ Fun fact: I'm double jointed in every bone!
 
 <!---
 LaurenSilver/LaurenSilver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
